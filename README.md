@@ -6,14 +6,14 @@
 
 [Principal](https://github.com/pvreboucas/java-ee-html-rest-cache)
 
-* [Aula 1 - ](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-01)
+* [Aula 1 - Melhorando a UX da Administração](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-01)
 
-* [Aula 2 - ](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-02)
+* [Aula 2 - Carrinho de Compras com HTML e JSF](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-02)
 
-* [Aula 3 - ](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-03)
+* [Aula 3 - Salvando a Compra com JSON](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-03)
 
-* [Aula 4 - ](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-04)
+* [Aula 4 - Usando serviços REST e requisições Assíncronas](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-04)
 
-* [Aula 5 - ](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-05)
+* [Aula 5 - Conhecendo e Utilizando Cache no JavaEE](https://github.com/pvreboucas/java-ee-html-rest-cache/tree/aula-05)
 
 [PRÓXIMO CURSO >>](https://github.com/pvreboucas/java-ee-jma-jaas-websocket)
